@@ -15,7 +15,6 @@ This repository is intentionally minimal and focused on clarity: it shows the pa
 - [Testing](#testing)
 - [Notes and Best Practices](#notes-and-best-practices)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 Important files and folders:
@@ -152,6 +151,3 @@ mvn test
 - Follow standard Java conventions and include unit tests for new behavior.
 - Open a pull request with a clear description of changes and rationale.
 
-## License
-Add a LICENSE file to the repository root and choose a license (for example, MIT, Apache-2.0) appropriate for your project.
-```
